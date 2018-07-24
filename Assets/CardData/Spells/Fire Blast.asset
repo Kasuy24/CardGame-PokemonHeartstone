@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc1af701b1d8ac247a338f7292abf003, type: 3}
+  m_Name: Fire Blast
+  m_EditorClassIdentifier: 
+  cardName: Fire Blast
+  description: 10% chance to burn the target.
+  art: {fileID: 21300000, guid: 9d57fd7d5f55b334f94ffbe86148c43e, type: 3}
+  manaCost: 2
+  isCreautre: 0
+  damage: 110
